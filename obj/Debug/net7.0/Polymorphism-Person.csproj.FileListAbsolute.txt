@@ -1,0 +1,15 @@
+D:\John\Programming\C#\Polymorphism-Person\bin\Debug\net7.0\Polymorphism-Person.exe
+D:\John\Programming\C#\Polymorphism-Person\bin\Debug\net7.0\Polymorphism-Person.deps.json
+D:\John\Programming\C#\Polymorphism-Person\bin\Debug\net7.0\Polymorphism-Person.runtimeconfig.json
+D:\John\Programming\C#\Polymorphism-Person\bin\Debug\net7.0\Polymorphism-Person.dll
+D:\John\Programming\C#\Polymorphism-Person\bin\Debug\net7.0\Polymorphism-Person.pdb
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.csproj.AssemblyReference.cache
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.AssemblyInfoInputs.cache
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.AssemblyInfo.cs
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.csproj.CoreCompileInputs.cache
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.dll
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\refint\Polymorphism-Person.dll
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.pdb
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\Polymorphism-Person.genruntimeconfig.cache
+D:\John\Programming\C#\Polymorphism-Person\obj\Debug\net7.0\ref\Polymorphism-Person.dll
