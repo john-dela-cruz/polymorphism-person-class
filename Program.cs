@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Person
+public class Person // Base class (parent) 
 {
     public int age;
 
@@ -27,7 +27,7 @@ public class Person
 
 }
 
-public class Student : Person
+public class Student : Person // Derived class (child) 
 {
     public void Study()
     {
@@ -40,7 +40,7 @@ public class Student : Person
     }
 }
 
-public class Teacher : Person
+public class Teacher : Person // Derived class (child) 
 {
     public void Explain()
     {
@@ -52,9 +52,9 @@ class StudentProfessorTest
 {
     public static void Main(string[] args)
     {
-        Person person = new Person();
-        Student student = new Student();
-        Teacher prof = new Teacher();
+        Person person = new Person(); // Creates Person object
+        Student student = new Student(); // Creates Student object
+        Teacher prof = new Teacher(); // Creates Teacher object
 
         Console.Write("Person: ");
         person.Greet();
